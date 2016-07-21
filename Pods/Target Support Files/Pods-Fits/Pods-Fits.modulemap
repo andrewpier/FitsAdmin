@@ -1,0 +1,6 @@
+framework module Pods_Fits {
+  umbrella header "Pods-Fits-umbrella.h"
+
+  export *
+  module * { export * }
+}

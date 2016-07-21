@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Fits": {
+      "applicationId": "U0nT94kPMbvEAi4HA3kNcACZsbjZuo9JebO4wysR"
+    },
+    "_default": {
+      "link": "Fits"
+    }
+  }
+}
